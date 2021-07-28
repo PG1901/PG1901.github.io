@@ -100,7 +100,7 @@ author:
   location         : "Busan, South Korea"
   email            : "palga_@naver.com"
   links:
-    - label: " "
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
